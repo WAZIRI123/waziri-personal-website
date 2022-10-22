@@ -6,7 +6,7 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-          <h3>Grandez-Booking-System</h3>
+          <h3>Grandez-Booking-System.</h3>
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/grandezza.png"
