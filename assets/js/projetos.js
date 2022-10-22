@@ -10,7 +10,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/grandezza.png"
-              alt="Grandez-Booking-System."
+              alt="Grandez-Booking-System"
             />
             <div class="buttons">
               <a href="https://github.com/WAZIRI123/Grandez-Booking-System-1" target="_blank" title="Grandez-Booking-System">
