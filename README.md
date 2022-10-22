@@ -6,11 +6,11 @@
 
 ---
 
-## 👨🏿‍💻 Sobre
+## 👨🏿‍💻 About
 
 Project made in order to introduce myself as a full stack  web developer.
 
-## 🤯 O site é composto por:
+## 🤯 The website consists of:
 
 - **Home:** My presentation;
 - **About me:** I talk a little about my trajectory and my current state;
@@ -35,7 +35,7 @@ O site **still in development**,because I'm constantly learning. But so far I ha
 <table>
   <tr>
     <td>
-      Feito por <a href="https://github.com/WAZIRI123">Waziri Ally.</a> 🙋🏿‍♂️
+      Made by <a href="https://github.com/WAZIRI123">Waziri Ally.</a> 🙋🏿‍♂️
     </td>
   </tr>
 </table>
