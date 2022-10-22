@@ -1,7 +1,7 @@
 function projetos(section) {
-  section.innerHTML =
-    `<header>
-      <h2>Projetos</h2>
+    section.innerHTML =
+        `<header>
+      <h2>Projects</h2>
     </header>
     <div class="content">
       <div class="cards">
