@@ -9,7 +9,7 @@ function projetos(section) {
           <h3>Grandez-Booking-System</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/grandezza.PNG"
+              src="./assets/images/projects/grandezza.png"
               alt="Grandez-Booking-System."
             />
             <div class="buttons">
