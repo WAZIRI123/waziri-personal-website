@@ -27,7 +27,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://grandezzazanzibar.com/"title="View Projet">
+              <a href="https://grandezzazanzibar.com/"title="View Projet" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
