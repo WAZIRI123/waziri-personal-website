@@ -9,7 +9,7 @@ function projetos(section) {
           <h3>Grandez-Booking-System</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/portifolio.png"
+              src="./assets/images/projects/grandezza.jpg"
               alt="Grandez-Booking-System."
             />
             <div class="buttons">
@@ -27,7 +27,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://grandezzazanzibar.com/" id="desafio" title="View Projet">
+              <a href="https://grandezzazanzibar.com/"title="View Projet">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
