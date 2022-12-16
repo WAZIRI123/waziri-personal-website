@@ -46,7 +46,6 @@ function projetos(section) {
           Grandezza's
           Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.
           </p>
-          <p>It developed using  Laravel  livewire  Alpine Js and TailwindCss.</p>
         </div>
       </div>
     </div>`
