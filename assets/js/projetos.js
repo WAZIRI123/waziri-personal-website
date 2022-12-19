@@ -15,6 +15,11 @@ function projetos(section) {
             image: "image3.jpg"
         }
     ];
+    let html = "";
+
+    cards.forEach(function(element) {
+        html += `<h2>${element.details}</h2>`;
+    });
     section.innerHTML =
         `<header>
       <h2>Projects</h2>
@@ -22,9 +27,7 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
       
-      ${cards.forEach(function(element) {
-        ` <h2>${element.details}</h2>`
-      })}
+    ${html}
        
       </div>
     </div>`
