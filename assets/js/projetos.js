@@ -23,7 +23,7 @@ function projetos(section) {
       <div class="cards">
       
       ${cards.forEach(function(element) {
-        ` <h2>Projects</h2>`
+        ` <h2>${element.details}</h2>`
       })}
        
       </div>
