@@ -22,9 +22,7 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
       
-      ${cards.forEach(function(element) {
-        console.log(element);
-      })}
+    waziri
        
       </div>
     </div>`
