@@ -21,8 +21,12 @@ function projetos(section) {
     </header>
     <div class="content">
       <div class="cards">
-      
-    waziri
+      <div class="cardsu">
+      wazit
+    
+       
+      </div>
+    
        
       </div>
     </div>`
