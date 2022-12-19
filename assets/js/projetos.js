@@ -23,7 +23,7 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
       ${cards.forEach(function(card) {
-        <div class="card">
+        `<div class="card">
           <h3>Grandez-Booking-System</h3>
           <div class="img-wrapper">
             <img
@@ -64,7 +64,7 @@ function projetos(section) {
           Grandezza's
           Booking System is full booking  system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.
           </p>
-        </div>
+        </div>`
 
       })}
 
