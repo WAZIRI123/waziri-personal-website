@@ -16,7 +16,7 @@ function projetos(section) {
         }
     ];
     cards.forEach(function(card) {
-        console.log(card.details)
+        console.log('helow')
     });
     section.innerHTML =
         `<header>
