@@ -21,12 +21,10 @@ function projetos(section) {
     </header>
     <div class="content">
       <div class="cards">
-      <div class="cardsu">
-      wazit
-    
-       
-      </div>
-    
+      
+      ${cards.forEach(function(element) {
+        ` <h2>Projects</h2>`
+      })}
        
       </div>
     </div>`
