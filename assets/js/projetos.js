@@ -8,7 +8,7 @@ function projetos(section) {
         {
             title: "St. Stephen Boys Secondary School",
             details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
-            image: "./assets/images/projects/grandezza.jpg",
+            image: "./assets/images/projects/st.stephen",
             url: "http://www.ststephenboys.ac.tz/"
         },
     ];
