@@ -69,9 +69,9 @@ function projetos(section) {
           </p>
         </div>
         
+      </div>
 
-
-        <div class="card">
+      <div class="card">
           <h3>Grandez-Booking-System</h3>
           <div class="img-wrapper">
             <img
@@ -113,8 +113,6 @@ function projetos(section) {
           Booking System is full booking  system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.
           </p>
         </div>
-        
-      </div>
     </div>`
 }
 
