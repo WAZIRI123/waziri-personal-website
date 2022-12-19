@@ -65,7 +65,7 @@ function projetos(section) {
           </div>
           <p>
           Grandezza's
-          Booking System is full booking  system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.
+          Booking System is full booking  best system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.
           </p>
         </div>
         
