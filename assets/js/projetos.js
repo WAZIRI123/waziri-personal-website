@@ -7,7 +7,7 @@ function projetos(section) {
         },
         {
             title: "St. Stephen Boys Secondary School",
-            details: "I created a school website for St. Stephen Boys Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout, using a responsive design to ensure that it looks great on all devices.",
+            details: "I created a school website for St. Stephen Boys Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
             image: "./assets/images/projects/st.stephen.jpg",
             url: "http://www.ststephenboys.ac.tz/"
         },
