@@ -1,21 +1,29 @@
 function projetos(section) {
     const cards = [{
-        title: "Card 1",
-        details: "Details for card 1",
-        image: "image1.jpg"
-    }, ];
+            title: "Grandez-Booking-System",
+            details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
+            image: "./assets/images/projects/grandezza.jpg",
+            url: "https://grandezzazanzibar.com/"
+        },
+        {
+            title: "St. Stephen Boys Secondary School",
+            details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
+            image: "./assets/images/projects/grandezza.jpg",
+            url: "http://www.ststephenboys.ac.tz/"
+        },
+    ];
     let html = ''
 
     cards.forEach(function(element) {
         html += ` <div class="card">
-        <h3>Grandez-Booking-System</h3>
+        <h3>${element.title}</h3>
         <div class="img-wrapper">
           <img
-            src="./assets/images/projects/grandezza.jpg"
-            alt="Grandez-Booking-System."
+            src="${element.image}"
+            alt="${element.title}"
           />
           <div class="buttons">
-            <a href="https://github.com/WAZIRI123/Grandez-Booking-System-1" target="_blank" title="Grandez-Booking-System">
+            <a href="${element.url}" target="_blank" title="${element.title}">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
@@ -29,7 +37,7 @@ function projetos(section) {
                 />
               </svg>
             </a>
-            <a href="https://grandezzazanzibar.com/"title="View Projet" target="_blank">
+            <a href="${element.url}"title="View Projet" target="_blank">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
@@ -45,8 +53,7 @@ function projetos(section) {
           </div>
         </div>
         <p>
-        Grandezza's
-        Booking System is full booking  system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.
+        ${element.details}
         </p>
       </div>`;
     });
