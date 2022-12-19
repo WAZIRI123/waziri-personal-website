@@ -23,7 +23,7 @@ function projetos(section) {
       <div class="cards">
 
       <ul>
-      ${cards.forEach(item => `<li>${item}</li>`)}
+      ${cards.forEach(item => `<li>${item.details}</li>`)}
     </ul>
 
 
