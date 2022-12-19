@@ -22,10 +22,10 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
 
-      <ul>
+
       ${cards.forEach(item =>console.log(item.details))
-} <
-/ul>
+} 
+
 
 
 <
