@@ -5,11 +5,19 @@ function projetos(section) {
             image: "./assets/images/projects/grandezza.jpg",
             url: "https://grandezzazanzibar.com/"
         },
+        // uruseminary
         {
             title: "St. Stephen Boys Secondary School",
             details: "I created this site for St. Stephen Boys Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
             image: "./assets/images/projects/st.stephen.jpg",
             url: "http://www.ststephenboys.ac.tz/"
+        },
+
+        {
+            title: "Uru Secondary School",
+            details: "I created this site for Uru Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
+            image: "./assets/images/projects/uruseminary.jpg",
+            url: "https://urusecondary.sc.tz/"
         },
     ];
     let html = ''
