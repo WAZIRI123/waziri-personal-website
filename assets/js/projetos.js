@@ -19,6 +19,13 @@ function projetos(section) {
             image: "./assets/images/projects/uruseminary.jpg",
             url: "https://urusecondary.sc.tz/"
         },
+
+        {
+            title: "Ilowola Secondary School",
+            details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
+            image: "./assets/images/projects/ilowola.jpg",
+            url: "https://schools.ilowola.org/"
+        },
     ];
     let html = ''
 
