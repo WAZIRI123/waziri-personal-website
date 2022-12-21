@@ -74,7 +74,7 @@ function projetos(section) {
     });
     section.innerHTML =
         `<header>
-      <h2>Projects</h2>
+      <h2>Works I have Done so far</h2>
     </header>
     <div class="content">
       <div class="cards">
