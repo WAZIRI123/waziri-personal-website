@@ -8,9 +8,9 @@ function projetos(section) {
         // uruseminary
         {
             title: "Inventory Management System",
-            details: "I created this site for St. Stephen Boys Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
-            image: "./assets/images/projects/st.stephen.jpg",
-            url: "http://www.ststephenboys.ac.tz/"
+            details: "I created this inventory system that allows users to manage their inventory by adding, updating, and deleting items. It is built with Laravel for the backend and Vue.js for the frontend.",
+            image: "./assets/images/projects/inventory.jpg",
+            url: "https://github.com/WAZIRI123/Inventory-System.git"
         },
 
         {
