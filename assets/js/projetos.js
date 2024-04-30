@@ -14,17 +14,17 @@ function projetos(section) {
         },
 
         {
-            title: "Uru Secondary School",
+            title: "morningtanzania",
             details: "I created this site for Uru Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
-            image: "./assets/images/projects/uruseminary.jpg",
-            url: "https://urusecondary.sc.tz/"
+            image: "./assets/images/projects/uruseminary.png",
+            url: "https://morningtanzania.com/"
         },
 
         {
-            title: "Ilowola Secondary School",
+            title: "djvinceice",
             details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
             image: "./assets/images/projects/ilowola.jpg",
-            url: "https://schools.ilowola.org/"
+            url: "https://djvinceice.com/"
         },
     ];
     let html = ''
