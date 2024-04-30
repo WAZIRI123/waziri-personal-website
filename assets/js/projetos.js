@@ -38,9 +38,7 @@ function projetos(section) {
       <figcaption class="bdt-scroll-image-caption bdt-caption-text">${element.title}</figcaption>
   
       </div>
-      <p>
-      ${element.details}
-      </p>
+    
     </div>`;
     });
     section.innerHTML =
