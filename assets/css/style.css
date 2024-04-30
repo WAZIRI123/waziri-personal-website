@@ -1492,8 +1492,8 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   /*===== PROJECTS ==================================*/
 
   #projects .card {
-    /* padding: 2.5rem; */
-  }
+    padding-top: 2.5rem;
+}
 
   #projects .card img {
     height: 15rem;
