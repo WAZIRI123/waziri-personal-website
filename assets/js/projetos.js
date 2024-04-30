@@ -31,12 +31,11 @@ function projetos(section) {
 
     cards.forEach(function(element) {
         html += ` <div class="card">
-      <h3>${element.title}</h3>
+     
       <div class="img-wrapper">
-        <img
-          src="${element.image}"
-          alt="${element.title}"
-        />
+      <div data-bg="https://reveccs.com/wp-content/uploads/2023/07/leopard-tours.png" class="bdt-scroll-image bdt-scroll-image-bottom-top rocket-lazyload entered lazyloaded" style="background-image: url(${element.image});" data-ll-status="loaded"></div>
+
+      <figcaption class="bdt-scroll-image-caption bdt-caption-text">${element.title}</figcaption>
   
       </div>
       <p>
