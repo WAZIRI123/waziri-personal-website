@@ -7,10 +7,10 @@ function projetos(section) {
         },
         // uruseminary
         {
-            title: "Inventory Management System",
+            title: "Joskenyandelicacies",
             details: "I created this inventory system that allows users to manage their inventory by adding, updating, and deleting items. It is built with Laravel for the backend and Vue.js for the frontend.",
-            image: "./assets/images/projects/inventory.jpg",
-            url: "https://github.com/WAZIRI123/Inventory-System.git"
+            image: "./assets/images/projects/josKenyan.png",
+            url: "https://joskenyandelicacies.com/"
         },
 
         {
