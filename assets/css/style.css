@@ -660,7 +660,7 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #projects .card {
-  padding-top: 4rem;
+  margin-bottom: 3rem;
   background: var(--bg-color);
 
   border-radius: 0.6rem;
@@ -1492,7 +1492,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   /*===== PROJECTS ==================================*/
 
   #projects .card {
-    padding-top: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 
   #projects .card img {
@@ -1634,7 +1634,7 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   /*===== PROJECTS ==================================*/
 
   #projects .card {
-     padding-top: 1.8rem;
+    margin-bottom: 1.8rem;
   }
 
   #projects .card .buttons {
