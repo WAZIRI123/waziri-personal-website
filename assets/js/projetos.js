@@ -32,7 +32,7 @@ function projetos(section) {
     cards.forEach(function(element) {
         html += ` <div class="card">
       <div class="img-wrapper">
-      <div data-bg="https://reveccs.com/wp-content/uploads/2023/07/leopard-tours.png" class="bdt-scroll-image bdt-scroll-image-bottom-top rocket-lazyload entered lazyloaded" style="background-image: url(${element.image});" data-ll-status="loaded"></div>
+      <div data-bg="https://reveccs.com/wp-content/uploads/2023/07/leopard-tours.png" class="bdt-scroll-image bdt-scroll-image-bottom-top rocket-lazyload entered lazyloaded" style="background-image: url('https://reveccs.com/wp-content/uploads/2023/07/leopard-tours.png');" data-ll-status="loaded"></div>
 
       <a  href="${element.url}" class="bdt-scroll-image-caption bdt-caption-text">${element.title}</a>
   
