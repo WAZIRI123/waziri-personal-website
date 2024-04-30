@@ -16,14 +16,14 @@ function projetos(section) {
         {
             title: "morningtanzania",
             details: "I created this site for Uru Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
-            image: "./assets/images/projects/uruseminary.png",
+            image: "./assets/images/projects/morningtanzania.png",
             url: "https://morningtanzania.com/"
         },
 
         {
             title: "djvinceice",
             details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
-            image: "./assets/images/projects/ilowola.jpg",
+            image: "./assets/images/projects/djvince.png",
             url: "https://djvinceice.com/"
         },
     ];
