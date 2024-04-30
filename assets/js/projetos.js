@@ -1,5 +1,14 @@
 function projetos(section) {
-    const cards = [{
+    const cards = [
+
+      {
+        title: "Kilimanjaro Christian Meical Centre",
+        details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
+        image: "./assets/images/projects/kcmc.png",
+        url: "https://www.kcmc.ac.tz/"
+    },
+      
+      {
             title: "Grandez-Booking-System",
             details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
             image: "./assets/images/projects/grandezza.png",
