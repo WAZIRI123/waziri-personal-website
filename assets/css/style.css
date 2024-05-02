@@ -256,8 +256,8 @@ nav {
 
 nav .wrapper {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  align-items: center !important;
+  justify-content: space-between !important;
 }
 
 nav.scroll {
