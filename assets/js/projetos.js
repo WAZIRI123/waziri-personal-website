@@ -44,14 +44,14 @@ function projetos(section) {
       },
 
                 {
-          title: "Livewire Package to generate CRUD Files using TALL Stack",
+          title: "Livewire CRUD Generator Package",
           details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
-          image: "https://media.giphy.com/media/e4sld9tmOsDMMbBztN/giphy.gif",
+          image: "./assets/images/projects/crud.png",
           url: "https://github.com/WAZIRI123/waziri-tall-crud-generator"
       },
 
                 {
-          title: "Livewire Package to display Toast Notification based on TALL Stack.",
+          title: "Livewire Toast Display Package",
           details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
           image: "./assets/images/projects/toast.png",
           url: "https://github.com/WAZIRI123/Livewire-Toast/"
