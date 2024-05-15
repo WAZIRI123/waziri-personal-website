@@ -53,7 +53,7 @@ function projetos(section) {
                 {
           title: "Livewire Package to display Toast Notification based on TALL Stack.",
           details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
-          image: "https://media.giphy.com/media/P1aEuZq9kSok2RIfJC/giphy.gif",
+          image: "./assets/images/projects/toast.png",
           url: "https://github.com/WAZIRI123/Livewire-Toast/"
       },
 
