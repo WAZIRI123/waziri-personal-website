@@ -15,12 +15,12 @@ function projetos(section) {
             url: "https://grandezzazanzibar.com/"
         },
         // uruseminary
-        // {
-        //     title: "Joskenyandelicacies",
-        //     details: "I created this inventory system that allows users to manage their inventory by adding, updating, and deleting items. It is built with Laravel for the backend and Vue.js for the frontend.",
-        //     image: "./assets/images/projects/josKenyan.jpg",
-        //     url: "https://joskenyandelicacies.com/"
-        // },
+        {
+            title: "Bongo music (local music donwloading platform)",
+            details: "I created this inventory system that allows users to manage their inventory by adding, updating, and deleting items. It is built with Laravel for the backend and Vue.js for the frontend.",
+            image: "./assets/images/projects/screencapture-bongo-music-vercel-app-2024-06-05-02_31_40.png",
+            url: "https://bongo-music.vercel.app/"
+        },
 
         {
             title: "morningtanzania",
