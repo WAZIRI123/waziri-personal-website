@@ -16,7 +16,7 @@ function projetos(section) {
         },
         // uruseminary
         {
-            title: "Bongo music (local music donwloading platform)",
+            title: "Bongo music platform",
             details: "I created this inventory system that allows users to manage their inventory by adding, updating, and deleting items. It is built with Laravel for the backend and Vue.js for the frontend.",
             image: "./assets/images/projects/screencapture-bongo-music-vercel-app-2024-06-05-02_31_40.png",
             url: "https://bongo-music.vercel.app/"
