@@ -41,7 +41,7 @@ body {
 
   overflow: overlay;
 
-  background-color: var(--bg-color);
+/*   background-color: var(--bg-color); */
 }
 
 body.light-mode {
