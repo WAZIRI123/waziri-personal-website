@@ -848,7 +848,7 @@ body.light-mode #home img#notebook-2-white {
 #contact ul a,
 #about .content a:nth-child(2) {
   width: fit-content;
-
+  margin:auto;
   text-decoration: none;
 
   display: flex;
