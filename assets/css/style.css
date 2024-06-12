@@ -88,10 +88,15 @@ img {
   color: var(--paragraph);
 }
 
+section:not(:first-of-type) {
+        padding-block: 5rem;
+    }
 section {
   padding-block: 10rem;
   padding-inline: 2rem;
 }
+
+
 
 section h4 {
   font-size: 1.4rem;
@@ -1052,6 +1057,9 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     display: grid;
   }
 
+section:not(:first-of-type) {
+        padding-block: 5rem;
+    }
   section {
     padding-block: 13rem;
   }
