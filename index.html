@@ -40,14 +40,17 @@
 text-align: center;
   }
 
-.card h3::after  {
+.card h3{
+  position: absolute;
+}
+.card h3::after {
     position: absolute;
-    bottom: -15px;
+    bottom: -5px;
     left: 0;
     right: 0;
     content: '';
-    width: 30px;
-    height: 1px;
+    width: 100px;
+    height: 3px;
     background: #3e64ff;
     margin: 0 auto;
 }
