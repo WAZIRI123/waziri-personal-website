@@ -802,7 +802,9 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #knowledge .card h3 {
-  margin-block: 1.6rem;
+    margin-block: 0rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 #knowledge .card img {
