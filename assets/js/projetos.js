@@ -26,15 +26,15 @@ function projetos(section) {
             title: "morningtanzania",
             details: "I created this site for Uru Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
             image: "./assets/images/projects/morningtanzania.jpg",
-            url: "https://morningtanzania.com/"
+            url: "https://goodmorningtanzania.com/"
         },
 
-        // {
-        //     title: "djvinceice",
-        //     details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
-        //     image: "./assets/images/projects/djvince.jpg",
-        //     url: "https://djvinceice.com/"
-        // },
+        {
+            title: "Liquor Shop Management system",
+            details: "I created this site for Ilowola Secondary School to provide a central online resource for students, parents, and teachers. I designed the website with a clean and modern layout.",
+            image: "./assets/images/projects/smartmockups_lxmyp4i8.jpg",
+            url: "https://github.com/WAZIRI123/oxygen-plant-management-system/tree/LiquorShop"
+        },
 
         {
           title: "My Portifolio Website",
