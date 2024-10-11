@@ -15,12 +15,12 @@ function projetos(section) {
             url: "https://secvortex.com/"
         },
 
-               {
-            title: "joskenyandelicacies",
-            details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
-            image: "./assets/images/projects/josKenyan.jpg",
-            url: "https://joskenyandelicacies.com/"
-        },
+        //        {
+        //     title: "joskenyandelicacies",
+        //     details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
+        //     image: "./assets/images/projects/josKenyan.jpg",
+        //     url: "https://joskenyandelicacies.com/"
+        // },
       {
             title: "Grandez-Booking-System",
             details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
