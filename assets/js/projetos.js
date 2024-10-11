@@ -11,7 +11,7 @@ function projetos(section) {
            {
             title: "secvortex",
             details: "Grandezza's Booking System is full booking system that allow the customer to book for trip activities and packages from he Grandezza tour and travel agency.",
-            image: "./assets/images/projects/secvortex.png",
+            image: "./assets/images/projects/secvortex.jpg",
             url: "https://secvortex.com/"
         },
 
